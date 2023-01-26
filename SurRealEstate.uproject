@@ -9,11 +9,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebCommunication",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3b04f3c4af5445959cee4448846b55a0"
-		},
-		{
 			"Name": "HTTPChunkInstaller",
 			"Enabled": true
 		},
@@ -56,11 +51,6 @@
 		{
 			"Name": "ADOSupport",
 			"Enabled": true
-		},
-		{
-			"Name": "JSONParser",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8eda577c5b594d6b990f91b8dec8a014"
 		},
 		{
 			"Name": "VaRest",
